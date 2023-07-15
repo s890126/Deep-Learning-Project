@@ -1,8 +1,9 @@
 # Deep-Learning-Project
 <h2>This is a research project for helping dentists automatically mark the facial landmarks which will be used in the treatment or surgery with deep learning and python programming.</h2>
 
-<h3>L10 is the landmark that we want to find because we have noticed that those past approaches have difficulty to detect the landmark 10(Gonion) precisely</h3>
-<img width="564" alt="image" src="https://github.com/s890126/Deep-Learning-Project/assets/65753398/a4470433-fa97-47fb-9eaf-528cbf077f73"></br>
+<h3>L10 is the landmark that we want to find because we have noticed that those approaches in the past have difficulty to detect the landmark 10(Gonion) precisely</h3>
+<img width="590" alt="Screenshot 2023-07-15 at 4 03 32 PM" src="https://github.com/s890126/Deep-Learning-Project/assets/65753398/05c5d553-83e6-4721-b365-ae64827bd21a">
+</br>
 <h3>The overall structure of my research:</h3>
 <img width="811" alt="image" src="https://github.com/s890126/Deep-Learning-Project/assets/65753398/7d91ea4d-7a7f-46cb-bbfc-59d4fa5ca807"></br>
 The first stage:</br>
