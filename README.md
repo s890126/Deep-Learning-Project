@@ -6,7 +6,7 @@
 </br>
 <h3>The overall structure of my research:</h3>
 <img width="811" alt="image" src="https://github.com/s890126/Deep-Learning-Project/assets/65753398/7d91ea4d-7a7f-46cb-bbfc-59d4fa5ca807"></br>
-The first stage:</br>
+<h3>The first stage:</h3>
 We cropped the original picture into five different areas to help training to find the face area with a more accurate detection rate:</br>
 <img width="929" alt="Screenshot 2023-07-15 at 3 36 52 PM" src="https://github.com/s890126/Deep-Learning-Project/assets/65753398/135d0f7f-d159-44b9-87e0-4f9715b79376"></br>
 <h3>This is the framework of the first stage:</h3>
