@@ -1,9 +1,9 @@
 # Deep-Learning-Project
-This is a research project for helping dentists automatically mark the facial landmarks which will be used in the treatment or surgery with deep learning and python programming.
+<h1>This is a research project for helping dentists automatically mark the facial landmarks which will be used in the treatment or surgery with deep learning and python programming.</h1>
 
-These are the landmarks that we want to find:</br>
+<h3>These are the landmarks that we want to find:</h3>
 <img width="564" alt="image" src="https://github.com/s890126/Deep-Learning-Project/assets/65753398/a4470433-fa97-47fb-9eaf-528cbf077f73"></br>
-The overall structure of my research:</br>
+<h3>The overall structure of my research:</h3>
 <img width="811" alt="image" src="https://github.com/s890126/Deep-Learning-Project/assets/65753398/7d91ea4d-7a7f-46cb-bbfc-59d4fa5ca807"></br>
 The first stage:</br>
 We cropped the original picture into five different areas to help training to find the face area with a more accurate detection rate:</br>
